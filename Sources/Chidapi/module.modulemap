@@ -1,0 +1,5 @@
+module Chidapi {
+    header "HIDShim.h"
+    link "hidapi"
+    export *
+}
